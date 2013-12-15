@@ -1,0 +1,4 @@
+pokazivac
+=========
+
+pokazivac
